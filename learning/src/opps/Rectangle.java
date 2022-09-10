@@ -6,7 +6,7 @@ public class Rectangle {
 		
 		
 		Rect1 r1= new Rect1();
-		
+		// use to set length 
 		r1.setLen(10);
 		r1.setBre(20);
 		
