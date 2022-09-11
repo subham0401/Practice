@@ -9,11 +9,7 @@ public class Rect1 {
 	
 	// constructor 
 	
-	public Rect1(int len, int bre) {
-	
-		this.len = len;
-		this.bre = bre;
-	}
+
 	// getter and setter of square 
 	public int getLen() 
 	{
