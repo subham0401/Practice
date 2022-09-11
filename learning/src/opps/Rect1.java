@@ -3,6 +3,17 @@ package opps;
 public class Rect1 {
 	private int len;
 	private int bre;
+	
+	
+	
+	
+	// constructor 
+	
+	public Rect1(int len, int bre) {
+	
+		this.len = len;
+		this.bre = bre;
+	}
 	// getter and setter of square 
 	public int getLen() 
 	{
